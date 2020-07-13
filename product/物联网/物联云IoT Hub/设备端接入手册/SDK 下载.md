@@ -103,7 +103,7 @@
 
 ### 代码托管
 - 自 v1.0.0 版本开始，Android 设备端 SDK 代码使用 Github 托管。
-  [https://github.com/tencentyun/qcloud-iot-sdk-android](https://github.com/tencentyun/qcloud-iot-sdk-android)
+  [hub-device-android](https://github.com/tencentyun/iot-device-android/tree/master/hub-device-android)
   
 ### 版本v2.0.0
 - 发布日期：2018/03/12

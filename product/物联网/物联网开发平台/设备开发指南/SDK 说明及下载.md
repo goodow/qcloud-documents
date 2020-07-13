@@ -3,7 +3,7 @@
 腾讯云物联网开发平台针对不同的设备开发场景，提供了多版本语言的设备 SDK 供客户使用：
 
 - `qcloud-iot-explorer-sdk-embedded-c`是针对嵌入式设备接入使用腾讯 IoT Explorer 平台提供的 C 语言版本 SDK。
-- `qcloud-iot-explorer-sdk-android` 是针对智能设备接入使用腾讯 IoT Explorer 平台的 Android 版本 SDK。
+- `explorer-device-android` 是针对智能设备接入使用腾讯 IoT Explorer 平台的 Android 版本 SDK。
 
 
 ## C SDK 代码托管
@@ -17,7 +17,7 @@
 
 ## Android SDK 代码托管
 
-自 V3.1.0 版本开始，使用独立的 [Github](https://github.com/tencentyun/qcloud-iot-explorer-sdk-android) 托管 Android 设备 SDK 代码。
+自 V3.1.0 版本开始，使用独立的 [Github](https://github.com/tencentyun/iot-device-android/tree/master/explorer-device-android) 托管 Android 设备 SDK 代码。
 
 ## 5G SDK 代码托管
 
