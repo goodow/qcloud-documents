@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3b4700a1_115af974",
+        "filename": "product/物联网/物联网开发平台/应用开发指南/App开发/基于 App 示例/部署流程.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2020-09-01T12:59:56Z",
+      "side": 1,
+      "message": "这里还是写成 自建的后台服务器吧。",
+      "revId": "f4a2435040f45268113213bc8d8b31f2bf6991b6",
+      "serverId": "bfd29338-1d98-4536-875c-f9d1fff7ae29",
+      "unresolved": true
+    }
+  ]
+}
