@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cd62c28b_a162843a",
+        "filename": "product/物联网/物联网开发平台/应用开发指南/App开发/基于 App 示例/接入指南.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2020-09-01T12:38:46Z",
+      "side": 1,
+      "message": "可以写在代码段的注释中显得更直观一些",
+      "range": {
+        "startLine": 46,
+        "startChar": 13,
+        "endLine": 46,
+        "endChar": 16
+      },
+      "revId": "dcb8d7364f8e8190118dbb35dcdc90cae245e2e3",
+      "serverId": "bfd29338-1d98-4536-875c-f9d1fff7ae29",
+      "unresolved": true
+    }
+  ]
+}
