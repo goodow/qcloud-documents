@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "26544493_53a311b5",
+        "filename": "product/物联网/物联网开发平台/应用开发指南/App开发/基于 App 示例/部署流程.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2020-09-01T13:02:15Z",
+      "side": 1,
+      "message": "标记：需要确认所有链接是否有效",
+      "revId": "d5a8ec46510ea774f963fc808893ae6aa800248c",
+      "serverId": "bfd29338-1d98-4536-875c-f9d1fff7ae29",
+      "unresolved": false
+    }
+  ]
+}
