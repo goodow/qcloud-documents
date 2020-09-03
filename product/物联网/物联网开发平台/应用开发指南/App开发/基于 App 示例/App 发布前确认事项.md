@@ -22,8 +22,7 @@
  - **WXAccessAppId** 请使用在微信开放平台申请并获得的 **AppID**；若确认使用自定义的微信授权登录，需要在 [微信开放平台](https://open.weixin.qq.com/) 注册开发者帐号，创建移动应用，审核通过后，即可获得相应的 [AppID 和 App Secret](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/WeChat_Login/Development_Guide.html)。
   使用微信授权登录还需：
   1. 将 `opensource_keystore.jks`文件替换成自己的签名文件并给应用签字。
-  2.  前往 [微信开放平台](https://developers.weixin.qq.com/doc/oplatform/Downloads/Android_Resource.html) 下载签名生成工具，使用该工具生成应用的数字签名(需要将该工具和应用同时安装到手机上，打开签名生成工具输入应用包名即可生成数字签名，如下图所示)
-    <img src="https://main.qcloudimg.com/raw/e5734b5731d77e8b1e271cbd78bb5fcf.png" alt="image-20200619162858817" width = "40%" height = "40%" />
+  2.  前往 [微信开放平台](https://developers.weixin.qq.com/doc/oplatform/Downloads/Android_Resource.html) 下载签名生成工具，使用该工具生成应用的数字签名(需要将该工具和应用同时安装到手机上，打开签名生成工具输入应用包名即可生成数字签名)
   3. 将该数字签名和应用包名登记到微信开放平台，否则微信授权登录将不可用。
   4. 最后将配置项 WXAccessAppId 设置为在微信开放平台申请并获得的 AppID；**同时请遵从官方建议自建微信接入服务器，保证 App Secret 不被泄露**。
 
