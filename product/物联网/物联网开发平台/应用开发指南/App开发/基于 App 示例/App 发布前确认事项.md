@@ -28,7 +28,7 @@
 
 2. 项目配置 **Firebase** 插件。
  - 若用户确认使用 Firebase 功能，需通过 Firebase 官网创建应用并获取 **google-services.json**，替换项目中的 [google-services.json](https://github.com/tencentyun/iot-link-android/blob/master/app/google-services.json) 文件。
- - 若不使用 Firebase 功能，注释图中标注的内容即可。
+ - 若不使用 Firebase 功能，需要在以下文件中注释掉对应依赖。
   
      在项目级 [build.gradle](https://github.com/tencentyun/iot-link-android/blob/master/build.gradle)中注释掉以下三个依赖项
    ```
