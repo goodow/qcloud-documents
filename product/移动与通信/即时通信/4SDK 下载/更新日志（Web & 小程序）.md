@@ -1,3 +1,29 @@
+### 2.7.7 @2020.8.12
+
+**新增**
+
+[TIM.EVENT.SDK_RELOAD](https://imsdk-1252463788.file.myqcloud.com/IM_DOC/Web/module-EVENT.html#.SDK_RELOAD) 事件。
+
+**修复**
+
+- 长时间断网后重新接入网络或者小程序长时间切后台又切回前台，偶现直播群拉不到消息。
+- 图片消息 imageFormat 的类型和值，跟实际图片格式不一致。
+- Work Public 群昵称错乱问题。
+
+
+### 2.7.6 @2020.7.9
+
+**修复**
+
+长时间使用直播群（AVChatRoom）偶现拉不到消息。
+
+### 2.7.5 @2020.7.2
+
+**修复**
+
+使用 REST API [创建好友工作群](https://cloud.tencent.com/document/product/269/1615) 并指定群成员，创建成功后群成员发消息失败。
+
+
 ### 2.7.2 @2020.6.30
 
 **修复**
